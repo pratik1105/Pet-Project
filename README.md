@@ -1,2 +1,2 @@
-# Hall 2 ke baap
-Lineage of hall 2 IITKANPUR
+Random attempts.
+Includes prototypes for homepage using bootstrap creative template.
